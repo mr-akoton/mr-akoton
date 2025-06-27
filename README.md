@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="Header" align="center">
+  <img src="assets/running-ninja.gif" width="100"/>
+</div>
 
 <!--
 **mr-akoton/mr-akoton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
