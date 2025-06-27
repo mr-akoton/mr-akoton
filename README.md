@@ -1,5 +1,5 @@
 <div id="Header" align="center">
-  <img src="assets/running-ninja.gif" width="100"/>
+  <img src="assets/running-ninja.gif" width="500"/>
 </div>
 
 <!--
