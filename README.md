@@ -2,6 +2,8 @@
   <img src="assets/running-ninja.gif" width="500"/>
 </div>
 
+---
+
 > "Run as fast as your compilator"
 
 ---
