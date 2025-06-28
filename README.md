@@ -1,7 +1,6 @@
 <div id="Header" align="center">
   <img src="assets/running-ninja.gif" width="500"/>
 </div>
-![Run as fast as your compilator](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=mr-akoton&icon=5&color=4)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
