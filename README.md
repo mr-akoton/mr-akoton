@@ -21,7 +21,7 @@ I like exploring different technologies and adapting quickly to new tools and la
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-akoton&show_icons=true&hide_title=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-akoton&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-akoton&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-akoton&theme=vue-dark&hide_border=false" alt="Top languages" height="150"/>
 </p>
