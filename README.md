@@ -17,12 +17,3 @@ I like exploring different technologies and adapting quickly to new tools and la
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/>
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" alt="VSCode" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-akoton&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-akoton&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top languages" height="150"/>
-</p>
