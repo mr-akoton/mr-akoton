@@ -32,17 +32,6 @@ These are the fields I plan to make my specialty.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![YOUR_USERNAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-akoton&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-akoton&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"The details are not the details. They make the design."* — Charles Eames
