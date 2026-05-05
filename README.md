@@ -24,19 +24,11 @@ These are the fields I plan to make my specialty.
 ---
 
 ## 🧠 Main Skills & Tools
-
-<div align="center">
-  <img style="width: 40;" src="https://devicon-website.vercel.app/api/c/original.svg" width="40" height="40" title="C"/>
-  <img style="width: 40;" src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="40" height="40" title="C++"/>
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40" title="Python"/>
-  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40" title="JavaScript"/>
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" width="40" height="40" title="TypeScript"/>
-  <img src="https://devicon-website.vercel.app/api/opengl/original.svg" width="40" height="40" title="OpenGL"/>
-  <img src="https://devicon-website.vercel.app/api/docker/original.svg" width="40" height="40" title="Docker"/>
-  <img src="https://devicon-website.vercel.app/api/bash/original.svg" width="40" height="40" title="Bash"/>
-  <img src="https://devicon-website.vercel.app/api/godot/original.svg" width="40" height="40" title="Godot"/>
-  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" width="40" height="40" title="VS Code"/>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,godot,docker,bash,linux,vscode,neovim&theme=light" />
+  </a>
+</p>
 
 ---
 
