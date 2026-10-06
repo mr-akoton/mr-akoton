@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Greetings, traveler!
-*I'm the one who write bugs with confidence - They'll be fixed anyway.*
+*I'm the one who writes bugs with confidence - They'll be fixed anyway.*
 
 </div>
 
